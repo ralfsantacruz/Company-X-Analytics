@@ -1,2 +1,2 @@
 # Presto-Analytics
-take home assignment for Preso
+take home assignment for Presto
