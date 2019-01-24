@@ -1,5 +1,5 @@
 # Company-X-Analytics
-Take-home assignment for Company in which I interviewed for. \n
+Take-home assignment for Company in which I interviewed for. <br>
 We will call this company Company X.
 
 This take-home assignment moved me to the next step in the interview process.
